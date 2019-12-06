@@ -44,5 +44,5 @@
     "express"
   ],
   "license": "MIT",
-  "cacheDirectories": ["node_modules", "elm-stuff", "dist"]
+  "cacheDirectories": ["node_modules", "~/.elm", "elm-stuff", "dist"]
 }
