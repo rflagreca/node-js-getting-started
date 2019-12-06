@@ -43,5 +43,6 @@
     "heroku",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "cacheDirectories": ["node_modules", "elm-stuff", "dist"]
 }
