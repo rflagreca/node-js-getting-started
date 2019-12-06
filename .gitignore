@@ -13,3 +13,6 @@ docker-compose.yml
 
 # Webpack artifacts
 dist/
+
+# Elm artifacts
+elm-stuff/
